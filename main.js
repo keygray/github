@@ -79,7 +79,7 @@ for (var value of langueges) {
 var myInfo = {
     Name: 'key ',
     Age: 19,
-    Address: 'Mỹ Đức'
+    Address: 'Mỹ Đức A'
 };
 console.log(Object.keys(myInfo));
 for (var value of Object.keys(myInfo)) {
